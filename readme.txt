@@ -9,6 +9,6 @@ Creating a new branch is quick AND simple.
 去南阳
 在火车上学习git
 开学最重要
-保持好心情！
+保持心情！
 过会就睡觉，现在快9点了！
 
