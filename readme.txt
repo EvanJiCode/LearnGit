@@ -19,3 +19,4 @@ Creating a new branch is quick AND simple.
 切换到testing分支
 >>>>>>> testing
 在iss53\上工作
+冲突在master
