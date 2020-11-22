@@ -12,5 +12,10 @@ Creating a new branch is quick AND simple.
 保持心情！
 过会就睡觉，现在快9点了！
 回家了1
+<<<<<<< HEAD
 现在在dev分支上干活！
 
+=======
+切换到testing分支
+>>>>>>> testing
+在iss53\上工作
