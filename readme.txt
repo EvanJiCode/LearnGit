@@ -18,5 +18,7 @@ Creating a new branch is quick AND simple.
 =======
 切换到testing分支
 >>>>>>> testing
+<<<<<<< HEAD
 在iss53\上工作
-冲突在master
+在dev上更改了文件！
+
