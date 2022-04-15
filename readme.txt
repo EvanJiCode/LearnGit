@@ -26,3 +26,5 @@ Creating a new branch is quick AND simple.
 git 教程
 乱码
 -FeatureA
+-fix-B
+
