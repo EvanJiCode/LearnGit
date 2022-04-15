@@ -25,3 +25,4 @@ Creating a new branch is quick AND simple.
 在proposed上工作
 git 教程
 乱码
+-FeatureA
