@@ -30,4 +30,4 @@ git 教程
 - Feature-C
 - Feature-D
 issue测试学习
-Close issue2
+Close issue2 Close issue2
