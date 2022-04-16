@@ -24,6 +24,7 @@ Creating a new branch is quick AND simple.
 在test分支上干活
 在proposed上工作
 git 教程
+Pull Request  Test1
 乱码
 -FeatureA
 -fix-B
@@ -31,3 +32,4 @@ git 教程
 - Feature-D
 issue测试学习
 Close issue2 Close issue2
+Pull Request  Test2
